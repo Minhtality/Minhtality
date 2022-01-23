@@ -1,7 +1,7 @@
 # Hello, I'm Minh 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-minhtran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-m-tran/)](https://www.linkedin.com/in/minh-m-tran/)
-[![Website Badge](https://img.shields.io/badge/-minhtality.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://minhtality.com)](https://minhtality.com)
+[![Website Badge](https://img.shields.io/badge/-minhtality.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.minhtality.com)](https://www.minhtality.com)
 [![Instagram Badge](https://img.shields.io/badge/-@minhtality-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/minhtality/)](https://www.instagram.com/minhtality/)
 [![Gmail Badge](https://img.shields.io/badge/-mtran1712-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mtran1712@gmail.com)](mailto:mtran1712@gmail.com)
 
