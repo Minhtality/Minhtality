@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@minhtality-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/minhtality/)](https://www.instagram.com/minhtality/)
 [![Gmail Badge](https://img.shields.io/badge/-mtran1712-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mtran1712@gmail.com)](mailto:mtran1712@gmail.com)
 
-Welcome! I'm a front-end developer specialized in React @TeamoneUSA. I'm addicted to coffee.
+Welcome! I'm a front-end developer specialized in React. I'm addicted to coffee.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
